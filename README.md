@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Aykut Akkaya!
 
-<!--
-**AyktAkky/AyktAkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A coding enthusiast trying to improve every day.  
+🎓 Studied at **Ecole 42** and **Kocaeli University**. Currently pursuing a degree in **Management Information Systems (MIS) at Bakırçay University**.  
+🚀 Passionate about artificial intelligence, web development, and databases.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Technologies I Use:**  
+- 🖥️ Python, JavaScript, SQL , C/++/# 
+- 🌐 HTML, CSS, React  
+- 🗄️ MySQL, PostgreSQL  
+
+📫 LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykut-akkaya-b9b2351b3/)  
