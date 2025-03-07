@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Aykut Akkaya!
 
-💻 A coding enthusiast trying to improve every day.  
+💻 A coding enthusiast trying to improve his knowledge.  
 🎓 Studied at **Ecole 42** and **Kocaeli University**. Currently pursuing a degree in **Management Information Systems (MIS) at Bakırçay University**.  
 🚀 Passionate about artificial intelligence, web development, and databases.  
 
